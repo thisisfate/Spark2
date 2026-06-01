@@ -5,8 +5,7 @@ st.set_page_config(page_title="Spark — Creator Ignition", page_icon="🔥", la
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
-html, body, [class*="css"] { font-family: 'Roboto', sans-serif; background-color: #0F0F0F; color: #F1F1F1; }
-.stApp { background-color: #0F0F0F; }
+html, body, [class*="css"] { font-family: 'Roboto', sans-serif; background-color: #FFFFFF; color: #0F0F0F; }.stApp { background-color: #FFFFFF; }
 #MainMenu, footer, header { visibility: hidden; }
 .block-container { padding: 2rem 3rem; max-width: 1400px; }
 .stButton > button { background-color: #FF0000 !important; color: white !important; border: none !important; border-radius: 20px !important; font-weight: 500 !important; padding: 0.5rem 1.5rem !important; }
